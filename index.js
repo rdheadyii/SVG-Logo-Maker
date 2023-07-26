@@ -49,6 +49,6 @@ inquirer.prompt(questions)
             break;
     }
 
-    fs.writeFile("examples/newShape.svg", shape, (err) =>
-    err ? console.error(err) : console.log('Success!'))
+    fs.writeFile("examples/logo.svg", shape, (err) =>
+    err ? console.error(err) : console.log('Generated logo.svg'))
 });
