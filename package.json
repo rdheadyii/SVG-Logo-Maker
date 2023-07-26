@@ -3,6 +3,7 @@
   "description": "Generates a SVG from user input in the terminal",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "directories": {
     "example": "examples",
     "lib": "lib"
