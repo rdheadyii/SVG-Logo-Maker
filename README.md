@@ -26,7 +26,7 @@
 
   ## Display
   ![Display of what terminal looks like](./images/screenshot.PNG)
-
+  https://drive.google.com/file/d/14lMRdjUiVZQ_zvpNg_0YNihxNLCbI288/view?usp=sharing
 
   ## Contributors
   N/A
